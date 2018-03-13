@@ -1,0 +1,11 @@
+use bamazon;
+insert into products (product_name, department_name, price, stock_quantity) values ('shirt', 'clothing', 5.00, 20);
+insert into products (product_name, department_name, price, stock_quantity) values ('pants', 'clothing', 15.00, 110);
+insert into products (product_name, department_name, price, stock_quantity) values ('pans', 'kitchen', 35.00, 70);
+insert into products (product_name, department_name, price, stock_quantity) values ('television', 'electronics', 555.00, 10);
+insert into products (product_name, department_name, price, stock_quantity) values ('marker', 'office', 1.00, 1110);
+insert into products (product_name, department_name, price, stock_quantity) values ('skirt', 'clothing', 5.00, 20);
+insert into products (product_name, department_name, price, stock_quantity) values ('socks', 'clothing', 15.00, 610);
+insert into products (product_name, department_name, price, stock_quantity) values ('blender', 'kitchen', 135.00, 60);
+insert into products (product_name, department_name, price, stock_quantity) values ('ps4', 'electronics', 255.00, 110);
+insert into products (product_name, department_name, price, stock_quantity) values ('brush', 'office', 11.00, 110);
