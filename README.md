@@ -4,3 +4,7 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.
 
 To run the application you must update the password with your own password in bamazonCustomer.js
+
+![alt text](https://github.com/bthipavo/mySQLHW/blob/master/ScreenShots/bamazon1.PNG)
+
+![alt text](https://github.com/bthipavo/mySQLHW/blob/master/ScreenShots/bamazon2.PNG)
